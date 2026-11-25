@@ -26,7 +26,7 @@ She analyzes your expression/energy and gives personalized, encouraging micro-ha
 - **Kov** (Hermes Agent) — Implementation, voice integration, deployment
 
 ### Seth Grossman Context
-Seth Grossman designed the original ReHumanator in 2093 as a radical response to deep societal fragmentation. After decades of division following the events of 9/11 and subsequent global crises, he envisioned a machine that would literally and metaphorically "mix" people's identities — showing that beneath surface differences, we share the same underlying humanity. The vintage photo booth aesthetic was deliberate: a return to analog warmth in a cold digital age. The catgirl wellness coach is our evolution — turning his unity concept into an approachable, joyful daily health companion.
+Seth Grossman designed the original ReHumanator in 2003 as a radical response to the societal fragmentation after 9/11. He envisioned a machine that would literally and metaphorically "mix" people's identities — showing that beneath surface differences, we share the same underlying humanity. The vintage photo booth aesthetic was deliberate: a return to analog warmth in a cold digital age. The catgirl wellness coach is our evolution — turning his unity concept into an approachable, joyful daily health companion.
 
 ## Tech Stack
 
