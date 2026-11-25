@@ -1,6 +1,6 @@
 # ReHumanator
 
-**The photo booth that mixes us all — now a wellness companion for Health Frontier NYC 2026**
+**The photo booth that mixes us all.**
 
 Live: [https://rehumanator.lovable.app](https://rehumanator.lovable.app)
 
@@ -19,15 +19,6 @@ Live: [https://rehumanator.lovable.app](https://rehumanator.lovable.app)
 
 She analyzes your expression/energy and gives personalized, encouraging micro-habits and mood reflections.
 
-## Why This for Health Frontier NYC?
-
-In a world of isolation and mental health challenges, ReHumanator uses playful multimodal AI to help people:
-- See themselves more positively
-- Receive gentle wellness nudges from a charming character
-- Feel connected ("we are all one") through the original mixing concept
-
-Perfect fit for **Personal Health & Wellness** track.
-
 ## Team
 
 - **Frank Yu** — Builder / Product
@@ -35,7 +26,7 @@ Perfect fit for **Personal Health & Wellness** track.
 - **Kov** (Hermes Agent) — Implementation, voice integration, deployment
 
 ### Seth Grossman Context
-Seth Grossman designed the original ReHumanator in 2093 as a radical response to deep societal fragmentation. After decades of division following the events of 9/11 and subsequent global crises, he envisioned a machine that would literally and metaphorically "mix" people's identities — showing that beneath surface differences, we share the same underlying humanity. The vintage photo booth aesthetic was deliberate: a return to analog warmth in a cold digital age. The catgirl wellness coach is our 2026 evolution — turning his unity concept into an approachable, joyful daily health companion.
+Seth Grossman designed the original ReHumanator in 2093 as a radical response to deep societal fragmentation. After decades of division following the events of 9/11 and subsequent global crises, he envisioned a machine that would literally and metaphorically "mix" people's identities — showing that beneath surface differences, we share the same underlying humanity. The vintage photo booth aesthetic was deliberate: a return to analog warmth in a cold digital age. The catgirl wellness coach is our evolution — turning his unity concept into an approachable, joyful daily health companion.
 
 ## Tech Stack
 
@@ -44,11 +35,10 @@ Seth Grossman designed the original ReHumanator in 2093 as a radical response to
 - Camera capture + canvas processing
 - Deployed on Lovable hosting
 
-## Hackathon Demo
+## Demo
 
-Watch the 8-second demo: [rehumanator-demo.mp4](https://github.com/Mkultra00/rehumanator-photo-booth/blob/main/demo.mp4) (or visit the live site)
-
-**Health Frontier NYC • AI × Health × Bio • Dec 4–5 2026**
+Watch the demo: [demo.mp4](https://github.com/Mkultra00/rehumanator-photo-booth/blob/main/demo.mp4) (or visit the live site)
 
 ---
-*Originally conceived by Seth Grossman. Rebuilt in 48 hours for Health Frontier NYC using Lovable.*
+
+*Originally conceived by Seth Grossman.*
