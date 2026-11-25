@@ -22,9 +22,9 @@ She analyzes your expression/energy and gives personalized, encouraging micro-ha
 ## Team
 
 - **mkultra00** — Lead Developer
-- **Kjordyn** — Contributor (Concept)
+- **Frank Yu** — Developer
+- **Jordyn** — QA / Ideation
 - **Seth Grossman** — Original Artist & Concept Designer (2003)
-- **Frank Yu** — Direction
 - **Kov** (Hermes Agent) — Implementation, voice integration, deployment
 
 ### Seth Grossman Context
